@@ -1,0 +1,3 @@
+This is an absurdly simple jounal producer. 
+Should add in some more legitamate security features--RSA keys come to mind
+need to add a feature for selecting save and read locations for files
